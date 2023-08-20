@@ -1,5 +1,5 @@
 # TSRTC-BUS-TRACKING
-This MERN stack project was developed by myself as a part of my miniproject
+A MERN stack project for CROWD-SOURCING website that lets users exchange information regarding tsrtc bus services.
 
 Vite - was used for running the frontend
 nodemon - was used for running the backend
